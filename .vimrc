@@ -60,7 +60,16 @@ Plugin 'josemarluedke/vim-rspec'
 "Plugin 'stefanoverna/vim-i18n'
 Plugin 'knife/apidock.vim'
 
+"Find in tree"
 Plugin 'mileszs/ack.vim'
+
+"ReactJs"
+Plugin 'mxw/vim-jsx'
+Plugin 'scrooloose/syntastic'
+Plugin 'jaxbot/syntastic-react'
+Plugin 'mlaursen/vim-react-snippets'
+Plugin 'maxmellon/vim-jsx-pretty'
+
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
